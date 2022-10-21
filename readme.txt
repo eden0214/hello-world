@@ -1,0 +1,1 @@
+Hello!  Testing this text editor for Git-It challenge.
